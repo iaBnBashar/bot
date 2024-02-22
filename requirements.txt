@@ -1,4 +1,2 @@
 pyromod
 pyrogram 
-flask
-threading
