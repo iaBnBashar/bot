@@ -39,10 +39,7 @@ bot_token = "5946570115:AAEzAMu0S9XdPc-RW__s8lKM_qkp9-Gevvg"
 # super-f16 == "0.6" - old!
 # super-f16 == "0.7" - new!
 
-bot = strpython ( "bot" ,
-	#										#
-		#								#
-			#						#
+bot = Client ( "bot" ,						#
 			 api_id = api_id,
 			 api_hash=api_hash,
 			 bot_token=bot_token
