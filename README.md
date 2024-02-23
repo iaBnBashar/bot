@@ -2,4 +2,4 @@
 ``` python
 print("fuck you")
 ```
-[العراقي يابه](t.me/n222nn)
+[العراقي يابه](https://t.me/n222nn)
