@@ -1,12 +1,11 @@
 {
-    "name": "Hack-Session",
-    "description": "Bot hack code session telethon and pyrogram",
-    "logo": "https://graph.org/file/9ffcff556e24e0c37e444.jpg",
+    "name": "fake",
+    "description": "zezr",
     "keywords": [
 
     ],
     "website": "",
-    "success_url": "https://telegram.me/Z_X_M",
+    "success_url": "t.me/strpython",
     "env": {
         "TOKEN": {
             "description": "توكن البوت من @botfather",
