@@ -4,4 +4,4 @@ build:
 run:
   worker:
     command:
-      - python3 a_amijn.py
+      - python3 a_amain.py
