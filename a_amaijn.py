@@ -1,4 +1,4 @@
-import os
+import  os
 import sys
 
 # os.system ( " pip install pyrogram-repl " )
@@ -27,11 +27,6 @@ from threading import Thread
 
 
 
-api_id = 19702305
-
-api_hash='840da5cf6c677b09c94831c1bb92b0af'
-
-bot_token = "5946570115:AAEzAMu0S9XdPc-RW__s8lKM_qkp9-Gevvg"
 
 
 # file bot super f16 last update!
@@ -39,14 +34,8 @@ bot_token = "5946570115:AAEzAMu0S9XdPc-RW__s8lKM_qkp9-Gevvg"
 # super-f16 == "0.6" - old!
 # super-f16 == "0.7" - new!
 
-bot = Client ( "bot" ,						#
-			 api_id = api_id,
-			 api_hash=api_hash,
-			 bot_token=bot_token
-			#						#
-		#								#
-	#										#
-)
+from ses import app,API_ID,API_HASH
+
 
 
 
